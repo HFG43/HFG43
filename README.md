@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFmdEwmALA/q_pARd4x7Vs8t54UeFBcWA/watch?utm_content=DAFmdEwmALA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+<img src="./Hernán Güemes.png"/>
+<br>
 
 ### Hi there 👋 My name is Hernán and I´m a full-stack development student, currently enrolled at Microverse, where I am learning JavaScript, React, Ruby, and Rails.  My main goal is to work as a remote developer for sales apps and e-commerce.
 
