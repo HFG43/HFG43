@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![HFG43's GitHub stats](https://github-readme-stats.vercel.app/api?username=HFG43)](https://github.com/HFG43/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HFG43&layout=compact)](https://github.com/HFG43/github-readme-stats)
