@@ -3,7 +3,7 @@
 </p>  
 <br>
 
-### Hi there 👋 My name is Hernán and I´m a full-stack development student, currently enrolled at Microverse, where I am learning JavaScript, React, Ruby, and Rails.  My main goal is to work as a remote developer for sales apps and e-commerce.
+### Hi there 👋 My name is Hernán and I´m a full-stack development student, currently enrolled at Microverse, where I am learning JavaScript, Ruby, Ruby on Rails, and React.  My main goal is to work as a remote back-end developer for sales apps and e-commerce.
 
 - 👯 I’m looking forward to collaborating on open-source projects
 - 🐱‍💻 I'm open to new working opportunities!
