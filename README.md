@@ -3,7 +3,9 @@
 </p>  
 <br>
 
-### Hi there 👋 My name is Hernán, and I'm a Full-stack developer proficient in Ruby on Rails, JavaScript, and PostgreSQL. I have also gained experience with React, Redux, and CSS3 through projects at Microverse, where I have worked remotely doing pair programming with professionals from around the globe. My main goal is to work as a remote Back-end or Full-stack developer specializing in sales apps, e-commerce, and tech solutions for businesses.
+### Hi there 👋 My name is Hernán, and I'm a Full-stack developer proficient in Ruby on Rails, JavaScript, and PostgreSQL. I have also gained experience with React, Redux, and CSS3 through projects at Microverse, where I have worked remotely doing pair programming with professionals from around the globe. 
+<br>
+My main goal is to work as a remote Back-end or Full-stack developer specializing in sales apps, e-commerce, and tech solutions for businesses.
 
 - 👯 I’m looking forward to collaborating on open-source projects
 - 🐱‍💻 I'm looking for new working opportunities!
