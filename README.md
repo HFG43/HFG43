@@ -7,8 +7,8 @@
 <br>
 My main goal is to work as a remote Back-end or Full-stack developer specializing in sales apps, e-commerce, and tech solutions for businesses.
 
-- 👯 I’m looking forward to collaborating on open-source projects
-- 🐱‍💻 I'm looking for new working opportunities!
+- I'm looking for new working opportunities!
+- I’m looking forward to collaborating on open-source projects in Ruby on Rails
 
 - LinkedIn [LinkedIn profile](https://www.linkedin.com/in/hernanguemes/)
 
